@@ -1,0 +1,16 @@
+{
+    "apiName": "Case",
+    "childRelationships": {},
+    "fields": {
+        "CaseNumber": {
+            "displayValue": null,
+            "value": "00001016"
+        }
+    },
+    "id": "5001U000002qYqDQAU",
+    "lastModifiedById": "0051U000001cLCGQA2",
+    "lastModifiedDate": "2019-01-02T15:30:50.000Z",
+    "recordTypeId": "012000000000000AAA",
+    "recordTypeInfo": null,
+    "systemModstamp": "2019-01-02T15:30:50.000Z"
+}
